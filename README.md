@@ -16,6 +16,8 @@ kopai tai paitai aii
 
 ## How To Contribute
 
+aserehey ole re aserehhey  leme
+
 git.training
 
 aserehey ole
