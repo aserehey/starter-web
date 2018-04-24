@@ -15,3 +15,5 @@ aserehey
 kopai tai paitai aii
 
 ## How To Contribute
+
+git.training
